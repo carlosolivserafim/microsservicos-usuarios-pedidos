@@ -1,2 +1,19 @@
+# Build
+target/
+*.jar
+*.war
+*.class
+
+# IDE
 /.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
+
+# Local
 Makefile
